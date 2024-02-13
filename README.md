@@ -1,25 +1,35 @@
 # beginners-guide-to-JS
-This repository serves as a detailed resource for individuals seeking to develop a solid understanding of JavaScript programming from foundational concepts to practical applications.
-## contents
-1. strings:
-   1. string length
-   2. string slicing
-   3. string casing
-  
 
+This repository serves as a detailed resource for individuals seeking to develop a solid understanding of JavaScript programming from foundational concepts to practical applications.
+
+## contents
+
+1. Strings:
+   1. [string length](stringLength.js)
+   2. [string slicing](stringSlice.js)
+   3. [string casing](stringCasing.js)
+2. Arithmetic Operators:
+   1. [arithmetic operators](arithmeticOperators.js)
+   2. [increment and decrement](incrementDecrement.js)
+3. Random:
+   1. [random number generation](randomGenerator.js)
+4. Functions:
+   1. [functions](functions.js)
+   2. [parameterized functions](parameterisedFunctions.js)
+   3. [returning functions](returningFunctions.js)
 
 ## Resources:
+
 ### here are some free resources you could use to learn js, go through all of these find one that aligns with your way of learning ;)
 
 1. [javascript.info](https://javascript.info/) - If you want to learn more about the concepts by reading
-2. [Exercism-JS Track](https://exercism.org/tracks/javascript) - If you like writing programs/if you prefer more hands on exercises(free code review and mentoring is also available)
+2. [Exercism-JS Track](https://exercism.org/tracks/javascript) - If you like writing programs/if you prefer more hands-on exercises(free code review and mentoring is also available)
 3. [Eloquent Js -Book](https://eloquentjavascript.net/) - This book contains some advanced topics and concepts on JS 
-4. [JSKatas.org](https://jskatas.org) - Learn Js by doing exercises on
+4. [JSKatas.org](https://jskatas.org) - Learn Js by doing exercises
 5. [Js crash course for beginner -Traversity Media](https://www.youtube.com/watch?v=hdI2bqOjy3c) -Youtube Video 
-5. [js reference MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) only use this as a reference and not as a learning material
+6. [js reference MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - Only use this as a reference and not as a learning material
 
 ## Project ideas:
-
 
 - [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
 - [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
